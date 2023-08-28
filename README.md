@@ -1,4 +1,4 @@
-# Data Science Project: Impact of Social Habits on Academic Success
+Impact of Social Habits on Academic Success Project
 
 > R, Random Forest, XGBoost, K-Nearest Neighbors (KNN)
 
